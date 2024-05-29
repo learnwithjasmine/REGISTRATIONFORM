@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any inquiries or feedback, please contact Jasmine Shaik at jasmine.shaik@example.com.
+For any inquiries or feedback, please contact Jasmine Shaik .
